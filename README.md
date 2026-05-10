@@ -1,2 +1,59 @@
-# translation-breakthrough
-🚀 Learning notes and translation exercises based on "12 Days to Breakthrough English-Chinese Translation", aiming for a CET-6 high score.
+# 🚀 Translation Breakthrough (十二天突破英汉翻译)
+
+本项目用于记录我学习武峰《十二天突破英汉翻译——笔译篇（第二版）》的全过程。通过系统性地掌握英汉语言结构的差异，提升笔译能力。
+
+🎯 **短期目标：** 攻克长难句结构拆分，冲击六级。
+🌱 **长期目标：** 建立结构化的翻译逻辑，从“Chinglist” 向 “Native Speaker” 蜕变。
+
+## 📁 仓库导航
+
+- [01_Notes (理论笔记)](./01_Notes) - 记录十二天课程中的核心翻译技巧（定语从句、被动语态、长难句拆分等）。
+- [02_Exercises (课后练习)](./02_Exercises) - 书本配套练习的实操记录与错题复盘。
+- [03_CET6_Combat (六级实战)](./03_CET6_Combat) - 历年六级翻译真题演练及精析。
+- [04_Glossary (语料库)](./04_Glossary) - 积累高频词汇、专业术语与高级句型。
+
+目录结构如下：
+
+```markdown
+translation-breakthrough/
+├── README.md               # 仓库的门面，包含目标、进度和学习方法
+├── .gitignore              # 忽略一些不需要上传的系统文件（如 .DS_Store, *.log）
+├── 01_notes/               # 核心学习笔记（按书本章节或天数划分）
+├── 02_exercises/           # 书中的配套练习题及复盘
+│   ├── Chapter01_Practice.md           # 练习文本、你的翻译、参考译文、差异对比分析
+│   └── Chapter02_Practice.md
+├── 03_cet6_combat/         # 针对六级考试的专项实战训练
+│   ├── 2024_June_T1.md                 # 2024年6月六级翻译第一套
+│   ├── 2024_June_T2.md                 # 分析错题，积累地道表达
+│   └── 2025_Mock_Exams.md
+├── 04_glossary/            # 词汇与好句积累（语料库）
+│   ├── Subject_Terms.md                # 政治、经济、文化、科技等高频专有名词
+│   └── Golden_Sentences.md             # 万能句型和高级表达替换
+└── assets/                 # 存放笔记中可能用到的图片、思维导图等
+    ├── clause_structure.png
+    └── logic_tree.jpg
+```
+
+## 📈 学习进度 (Progress)
+
+- [ ] **Day 01:** 突破英文中定语从句的翻译（一）
+- [ ] **Day 02:** 突破英文中定语从句的翻译（二）
+- [ ] **Day 03:** 突破英文中非谓语动词的翻译
+- [ ] **Day 04:** 突破英文中被动语态的翻译（一）
+- [ ] **Day 05:** 突破英文中被动语态的翻译（二）
+- [ ] **Day 06:** 突破英文中代词的翻译
+- [ ] **Day 07:** 突破英文中形容词和副词的翻译
+- [ ] **Day 08:** 突破增词与减词（一）
+- [ ] **Day 09:** 突破增词与减词（二）
+- [ ] **Day 10:** 突破汉译英的换主语
+- [ ] **Day 11:** 突破中西方文化差异的翻译
+- [ ] **Day 12**: 总结非文学翻译的要点
+
+## 💡 我的复盘规范
+
+每次做完练习或真题，我要求自己按照以下格式进行复盘（Review）：
+
+1. **Source (原文):** ...
+2. **My Translation (我的译文):** ...
+3. **Reference (参考译文):** ...
+4. **Analysis (复盘分析):** 找差距。词汇误用？逻辑断层？还是中式英语 (Chinglish) 思维作祟？
