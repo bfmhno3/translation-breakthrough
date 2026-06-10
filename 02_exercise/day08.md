@@ -36,3 +36,17 @@
 ### 5. 古文应当如何翻译？基本思路是什么？
 
 古文应该使用**解释**的方法来翻译。
+
+## 二、汉译英段落翻译
+
+> 维护世界和平，促进共同发展，谋求合作共赢，是各国人民的共同愿望，也是不可抗拒的当今时代潮流。中国高举和平、发展、合作的旗帜，坚持走和平发展道路，与世界各国一道，共同致力于建设一个持久和平、共同繁荣的和谐世界。
+
+Maintaining worldwide peace, enhancing collective development and pursuing cooperative wins are all countries people's joint expectation and unavoidable fashion. With the flags of peace, development and collaboration, China persist in peaceful development. China with other countries worldwide together are committed to building a harmonious world of continuous peace and collective prosperity.
+
+> 中国与世界从未像今天这样紧密相连。中国政府把中国人民的根本利益与各国人民的共同利益结合起来，坚持奉行防御性的国防政策。中国的国防服从和服务于国家发展战略和安全战略，旨在维护国家安全统一，确保实现全面建设小康社会的宏伟目标。中国永远是维护世界和平、安全、稳定的坚定力量。
+
+China hasn't been linked with the world like today. Combing the fundamental interests of Chinese and collective interests of other countries, The Chinese government adhere to national defense privacy of defender strategy. The Chinese national defense services as strategies of national development and security, aiming at maintaining security and union, ensuing to implement the grand goal of XiaoKang society's building. The China forever is the firm strength of maintaining worldwide peace, security and stability.
+
+> 中国在经济不断发展的基础上推进国防和军队现代化，是适应世界新军事变革发展趋势、维护国家安全和发展利益的需要。中国不会与任何国家进行军备竞赛，不会对任何国家构成军事威胁。新世纪新阶段，中国把科学发展观作为国防和军队建设的重要指导方针，积极推进中国特色军事变革，努力实现国防和军队建设全面协调可持续发展。
+
+Based on continuous development of economy, the China boosts the modernization of national defense and armies, which is the requirement of adapting to the novel development trend of military reform and maintaining national security and development interest. The China will never make military competition with any country, and will never make military threats against any country. In the new century and new stage, the China makes scientific development perspective as instrumental strategy of  national defense and military development, actively enhancing the Chinese characteristic military reform, endeavoring to achieve comprehensive, harmonious and continuous development of national defense and military development.
